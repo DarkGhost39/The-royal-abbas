@@ -1,3 +1,4 @@
+'use client';
 import { Sparkles } from "lucide-react";
 import { WA_URL, SITE_TAGLINE } from "@/lib/constants";
 
